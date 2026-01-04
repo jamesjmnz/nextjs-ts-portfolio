@@ -14,6 +14,7 @@ const TechStack = () => {
 
   const backend = [
     "Node.js",
+    "Python",
     "Express",
     "PostgreSQL",
     "FastAPI",
@@ -21,11 +22,12 @@ const TechStack = () => {
     "Supabase",
     "PHP",
     "MySQL",
+    "MongoDB"
   ];
 
-  const devops = ["Vercel", "Cloudinary"];
+  const devops = ["Docker","Cloudinary", "Vercel", "Render"];
 
-  const ai = ["Python", "Langchain", "OpenAI", "Huggingface", "BeautifulSoup"];
+  const ai = ["Pytorch", "Langchain", "Transformers", "OpenAI", "Huggingface", "BeautifulSoup", "Langgraph"];
 
   const devtools = ["Git", "GitHub", "Postman", "Tanstack Query", "Zustand"];
 
